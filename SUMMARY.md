@@ -1,4 +1,4 @@
 # Summary
 
-* Contributing
+* [Contributing](contributing.md)
 
